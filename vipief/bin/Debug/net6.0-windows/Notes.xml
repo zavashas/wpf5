@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNote xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Note>
+    <Name>ewf2</Name>
+    <Description>fewf</Description>
+    <Date>2024-04-18T00:00:00</Date>
+  </Note>
+</ArrayOfNote>

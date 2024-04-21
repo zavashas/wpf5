@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "A7dcwu+pHqqkJN12w69JIBkAA1k1TAws4bePrqYnAiBOX9lTEyRmO0T8ub2j6mODw9CfwlX5aHu5bZwNuHx7KA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\simaz\\OneDrive\\Рабочий стол\\учеба\\c#\\vipief\\vipief\\vipief\\vipief.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\simaz\\.nuget\\packages\\materialdesigncolors\\2.1.2\\materialdesigncolors.2.1.2.nupkg.sha512",
+    "C:\\Users\\simaz\\.nuget\\packages\\materialdesignthemes\\4.8.0\\materialdesignthemes.4.8.0.nupkg.sha512",
+    "C:\\Users\\simaz\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
